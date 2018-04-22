@@ -5,4 +5,5 @@ def multiple_sum(limit):
             sum += i
     return sum;
 
+# Outputs 233168
 print(str(multiple_sum(1000)))
